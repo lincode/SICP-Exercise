@@ -37,6 +37,9 @@ SICP-Exercise 是 [SICP(Structure and Interpretation of Computer Programs)](http
 - [sicp-ex-2.11](./Source/2/sicp-ex-2.11.scm)
 - [sicp-ex-2.12](./Source/2/sicp-ex-2.12.scm)
 - [sicp-ex-2.13](./Source/2/sicp-ex-2.13.scm)
+- [sicp-ex-2.14](./Source/2/sicp-ex-2.14.scm)
+- [sicp-ex-2.15](./Source/2/sicp-ex-2.15.scm)
+- [sicp-ex-2.16](./Source/2/sicp-ex-2.16.scm)
 
 #### 2.2 Hierarchical Data and the Closure Property
 
