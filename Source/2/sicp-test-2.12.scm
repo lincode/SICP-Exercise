@@ -6,7 +6,7 @@
 (define-test (interval-mul)
 
     (define interval-1 (make-interval 1.0 3.0))
-    (define interval-2 (make-center-percent 2.0 0.5))
+    (define interval-2 (make-center-percent 2.0 50))
     (check (equal? interval-1 interval-2))
 )
 

@@ -1,8 +1,8 @@
-;; make-center-width-interval.scm
+;; make-interval-center-width.scm
 
 (load "interval.scm")
 
-(define (make-center-width c w)
+(define (make-interval-center-width c w)
     (make-interval (- c w) (+ c w)))
 
 (define (center i)
