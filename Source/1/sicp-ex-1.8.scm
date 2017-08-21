@@ -19,8 +19,3 @@
 
 (define (improve guess x)
     (/ (+ (/ x (square guess)) (* 2 guess)) 3))
-
-; 1] => (cube-root (* 3 3 3))
-; ;Value: 3.0000005410641766
-; 1] => (cube-root (* 2 2 2))
-; ;Value: 2.000004911675504
