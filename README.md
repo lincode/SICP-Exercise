@@ -51,14 +51,17 @@ SICP-Exercise 是 [SICP(Structure and Interpretation of Computer Programs)](http
 
 ### Chapter 3. Modeling with Mutable Data
 
+#### 3.3 Modeling with Mutable Data
+
+- [sicp-ex-3.21](./Source/3/sicp-ex-3.21.scm)
+- [sicp-ex-3.22](./Source/3/sicp-ex-3.22.scm)
+- [sicp-ex-3.23](./Source/3/sicp-ex-3.23.scm)
+
 ### Chapter 4. Metalinguistic Abstraction
 
 ### Chapter 5. Computing with Register Machines
 
 ## Unit Test
 
-单元测试使用完成 [test-manager](http://web.mit.edu/~axch/www/testing-1.2.html)。
-
-
-
+单元测试库为：[test-manager](http://web.mit.edu/~axch/www/testing-1.2.html)。
 
