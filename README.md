@@ -53,6 +53,9 @@ SICP-Exercise 是 [SICP(Structure and Interpretation of Computer Programs)](http
 
 #### 3.3 Modeling with Mutable Data
 
+- [sicp-ex-3.12](./Source/3/sicp-ex-3.12.scm)
+- [sicp-ex-3.13](./Source/3/sicp-ex-3.13.scm)
+- [sicp-ex-3.14](./Source/3/sicp-ex-3.14.scm)
 - [sicp-ex-3.21](./Source/3/sicp-ex-3.21.scm)
 - [sicp-ex-3.22](./Source/3/sicp-ex-3.22.scm)
 - [sicp-ex-3.23](./Source/3/sicp-ex-3.23.scm)
