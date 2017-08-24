@@ -40,6 +40,14 @@ SICP-Exercise 是 [SICP(Structure and Interpretation of Computer Programs)](http
 - [sicp-ex-2.14](./Source/2/sicp-ex-2.14.scm)
 - [sicp-ex-2.15](./Source/2/sicp-ex-2.15.scm)
 - [sicp-ex-2.16](./Source/2/sicp-ex-2.16.scm)
+- [sicp-ex-2.17](./Source/2/sicp-ex-2.17.scm)
+- [sicp-ex-2.18](./Source/2/sicp-ex-2.18.scm)
+- [sicp-ex-2.19](./Source/2/sicp-ex-2.19.scm)
+- [sicp-ex-2.20](./Source/2/sicp-ex-2.20.scm)
+- [sicp-ex-2.21](./Source/2/sicp-ex-2.21.scm)
+- [sicp-ex-2.22](./Source/2/sicp-ex-2.22.scm)
+- [sicp-ex-2.23](./Source/2/sicp-ex-2.23.scm)
+
 
 #### 2.2 Hierarchical Data and the Closure Property
 
@@ -56,6 +64,9 @@ SICP-Exercise 是 [SICP(Structure and Interpretation of Computer Programs)](http
 - [sicp-ex-3.12](./Source/3/sicp-ex-3.12.scm)
 - [sicp-ex-3.13](./Source/3/sicp-ex-3.13.scm)
 - [sicp-ex-3.14](./Source/3/sicp-ex-3.14.scm)
+- [sicp-ex-3.15](./Source/3/sicp-ex-3.15.scm)
+- [sicp-ex-3.16](./Source/3/sicp-ex-3.16.scm)
+- [sicp-ex-3.17](./Source/3/sicp-ex-3.17.scm)
 - [sicp-ex-3.21](./Source/3/sicp-ex-3.21.scm)
 - [sicp-ex-3.22](./Source/3/sicp-ex-3.22.scm)
 - [sicp-ex-3.23](./Source/3/sicp-ex-3.23.scm)
